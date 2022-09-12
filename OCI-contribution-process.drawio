@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-28T19:02:03.733Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36" etag="WYh1g5koOkR-qzCFnqj5" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-12T18:22:19.980Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="Q0krxWNpQjHYh1jhr1mm" version="20.2.7" type="github">
   <diagram id="WndIDnTmB3kT6Qjz0C7Q" name="Page-1">
     <mxGraphModel dx="811" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -13,8 +13,8 @@
         <mxCell id="oxC0AMpD19ijb4CHMhyV-3" value="&lt;font style=&quot;font-size: 10px&quot;&gt;OCI Contributor&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
           <mxGeometry x="210" y="123" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oxC0AMpD19ijb4CHMhyV-7" value="Submission of Contribution or Change Request, incl. justification, via OCI website form or GitHub issue" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;shadow=0;fontSize=10;spacingLeft=14;spacingTop=4;dx=10;dy=10;" parent="1" vertex="1">
-          <mxGeometry x="390" y="110" width="140" height="86" as="geometry" />
+        <mxCell id="oxC0AMpD19ijb4CHMhyV-7" value="Submission of Contribution or Change Request, incl. justification" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;shadow=0;fontSize=10;spacingLeft=14;spacingTop=4;dx=10;dy=10;" parent="1" vertex="1">
+          <mxGeometry x="390" y="118" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="oxC0AMpD19ijb4CHMhyV-8" value="Assessment and Impact Analysis" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;shadow=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="400" y="243" width="120" height="60" as="geometry" />
