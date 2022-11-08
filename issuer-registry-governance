@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-11-08T09:38:47.443Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.5.3" etag="cix2R-YVpooeGZgC2Zqq" type="github"><diagram id="qFTEOM_E0224nYpfKkgc">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-08T09:46:35.375Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="rmtLSWMSFh_3VSYLRL21" version="20.5.3" type="github">
+  <diagram id="qFTEOM_E0224nYpfKkgc" name="Page-1">
+    <mxGraphModel dx="811" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5QC7hozRbrWesP5P7xym-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5QC7hozRbrWesP5P7xym-1" target="5QC7hozRbrWesP5P7xym-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5QC7hozRbrWesP5P7xym-1" value="OCI Steering Committee" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="249" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5QC7hozRbrWesP5P7xym-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5QC7hozRbrWesP5P7xym-2" target="5QC7hozRbrWesP5P7xym-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5QC7hozRbrWesP5P7xym-2" value="Statekeepers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="375" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5QC7hozRbrWesP5P7xym-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="5QC7hozRbrWesP5P7xym-3" target="5QC7hozRbrWesP5P7xym-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5QC7hozRbrWesP5P7xym-3" value="Trusted Issuer Registry" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="500" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5QC7hozRbrWesP5P7xym-6" value="Decision" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="448" y="312" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5QC7hozRbrWesP5P7xym-7" value="Technical implementation of decision" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="448" y="440" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5QC7hozRbrWesP5P7xym-9" value="Alert on updates" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="380" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
