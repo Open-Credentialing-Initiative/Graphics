@@ -1,9 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2023-10-18T14:23:43.693Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="22.0.4" etag="M54-5ViCErDMyCgRI6PP" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-18T14:52:21.587Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="KwqeSsxzsL9_Gmw-X1fT" version="22.0.4" type="github">
   <diagram name="Page-1" id="vHAGDmiI1vyPIc6wVMkb">
-    <mxGraphModel>
+    <mxGraphModel dx="676" dy="994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NC7ep-eTYAIlasBMhbsW-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NC7ep-eTYAIlasBMhbsW-14" target="NC7ep-eTYAIlasBMhbsW-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NC7ep-eTYAIlasBMhbsW-1" value="Change in Conformance Requirements" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="96" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NC7ep-eTYAIlasBMhbsW-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NC7ep-eTYAIlasBMhbsW-2" target="NC7ep-eTYAIlasBMhbsW-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="556" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NC7ep-eTYAIlasBMhbsW-2" value="Initial or Re-Audit" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NC7ep-eTYAIlasBMhbsW-4" value="Sunrise&lt;br&gt;Date" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="218" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NC7ep-eTYAIlasBMhbsW-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.661;entryY=0.619;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NC7ep-eTYAIlasBMhbsW-19" target="NC7ep-eTYAIlasBMhbsW-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="306.52941176470586" y="390.02704530087885" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NC7ep-eTYAIlasBMhbsW-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.634;entryY=0.746;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NC7ep-eTYAIlasBMhbsW-4" target="NC7ep-eTYAIlasBMhbsW-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="530" as="sourcePoint" />
+            <mxPoint x="232" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NC7ep-eTYAIlasBMhbsW-9" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="303.5" y="330" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NC7ep-eTYAIlasBMhbsW-15" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="NC7ep-eTYAIlasBMhbsW-1" target="NC7ep-eTYAIlasBMhbsW-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="340" as="sourcePoint" />
+            <mxPoint x="356" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NC7ep-eTYAIlasBMhbsW-14" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="248" y="330" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NC7ep-eTYAIlasBMhbsW-17" value="Self-Attestation&lt;br&gt;Rota" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="552" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NC7ep-eTYAIlasBMhbsW-19" value="Audit&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Deadline" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="274" y="380" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
